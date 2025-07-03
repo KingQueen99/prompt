@@ -2,7 +2,7 @@
 
 本文档旨在提供一个标准化的模板，用于在项目任意位置快速创建一个新的 React 组件。
 
-在开始之前，请确保您已熟悉并遵循 `react-component-specification.md`。
+在开始之前，请确保您已熟悉并遵循 https://raw.githubusercontent.com/KingQueen99/prompt/main/react-component-specification.md。
 
 ## 1. 创建位置
 
